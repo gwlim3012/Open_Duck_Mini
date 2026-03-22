@@ -115,14 +115,28 @@ python v2_rl_walk_mujoco.py \
  
 ## Photos
 
-| | | |
-|---|---|---|
-| ![](images/assembly1.jpg) | ![](images/assembly2.jpg) | ![](images/assembly3.jpg) |
+### Assembly
+<table>
+  <tr>
+    <td><img src="photos/assembly1.jpg" width="300"/></td>
+    <td><img src="photos/assembly2.jpg" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="photos/assembly3.jpg" width="300"/></td>
+    <td><img src="photos/assembly4.jpg" width="300"/></td>
+  </tr>
+</table>
 
-**Final Build**
+### Final Build
+<table>
+  <tr>
+    <td><img src="photos/final1.jpg" width="300"/></td>
+    <td><img src="photos/final2.jpg" width="300"/></td>
+    <td><img src="photos/final3.jpg" width="300"/></td>
+  </tr>
+</table>
 
-| | | |
-|---|---|---|
-| ![](images/final1.jpg) | ![](images/final2.jpg) | ![](images/final3.jpg) |
-| ![]() | ![]() |
- 
+### Video
+https://github.com/user-attachments/assets/c1091f3d-5a8f-431f-83e2-302207438d62.mp4
+
+Walking isn't smooth yet. We're looking into retraining the model or a hardware overhaul to fix the gait.

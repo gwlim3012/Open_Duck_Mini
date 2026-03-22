@@ -137,6 +137,6 @@ python v2_rl_walk_mujoco.py \
 </table>
 
 ### Video
-https://github.com/user-attachments/assets/c1091f3d-5a8f-431f-83e2-302207438d62.mp4
+https://github.com/user-attachments/assets/ba4372c8-ea93-4a9f-bee8-945988f35d73.mp4
 
 Walking isn't smooth yet. We're looking into retraining the model or a hardware overhaul to fix the gait.

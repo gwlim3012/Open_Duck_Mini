@@ -8,8 +8,8 @@
 
 | Person | Role |
 |--------|------|
-| [igeoni](https://github.com/igeoni) | Hardware assembly, components wiring, 3D printing |
-| [gwlim3012](https://github.com/gwlim3012) | Embedded software setup, Sensor calibration |
+| [Geoni Lee](https://github.com/igeoni) | Hardware Integration: 3D frame optimization, system wiring, and mechanical assembly |
+| [Gyuwon Lim](https://github.com/gwlim3012) | Embedded SW: Runtime environment setup, IMU & motor calibration |
 - RL policy testing done together.<br>
 - Planning to train our own Sim2Real policy from scratch.
 ---

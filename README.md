@@ -19,7 +19,7 @@
 > For the full BOM and assembly guide, refer to the [official docs](https://github.com/apirrone/Open_Duck_Mini/tree/v2/docs).
  
 - Raspberry Pi Zero 2W
-- Dynamixel XL-330 motors × 14
+- Feetech 7.4v STS 3215 motors × 14
 - IMU (BNO085)
 - DualSense (PS5) controller
 - Custom 3D-printed frame (STLs in official repo)
